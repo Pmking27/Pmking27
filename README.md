@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm Prathamesh Prakash Mandavkar</h1>
 <h3 align="center">A passionate 🐍 Python Developer from India</h3>
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tkyl1l7u7qwoe41pth7ysnip59fdnulxi7bxrd0y&rid=giphy.gif&ct=g" border-radius="50%">
+<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tkyl1l7u7qwoe41pth7ysnip59fdnulxi7bxrd0y&rid=giphy.gif&ct=g"  height="490">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pmking27&label=Profile%20views&color=0e75b6&style=flat" alt="pmking27" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@Prathamesh277" target="blank"><img src="https://img.shields.io/twitter/follow/@prathamesh277?logo=twitter&style=for-the-badge" alt="@Prathamesh277" /></a> </p>
 
 - 🌱 I’m currently learning **Data science**
 
