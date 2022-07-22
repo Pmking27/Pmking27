@@ -1,5 +1,3 @@
-![MasterHead](https://pbs.twimg.com/profile_banners/1297503108096917505/1649327456/1500x500)
-
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I'm Prathamesh Prakash Mandavkar</h1>
 <h3 align="center">A passionate 🐍 Python Developer from India</h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tkyl1l7u7qwoe41pth7ysnip59fdnulxi7bxrd0y&rid=giphy.gif&ct=g" border-radius="50%">
@@ -18,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@prathamesh277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prathamesh277" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathamesh mandavkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh mandavkar" height="30" width="40" /></a>
+<a href="https://twitter.com/@prathamesh277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Prathamesh277" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prathamesh-mandavkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh mandavkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
