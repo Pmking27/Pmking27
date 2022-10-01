@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Prathamesh Prakash Mandavkar</h1>
-<h3 align="center">A passionate  Python Developer & Tech Enthusiast from India <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ee-1f1f3.png" height="20" width="40"></h3>
+<h3 align="center">A passionate  Python Developer & Tech Enthusiast from India <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1ee-1f1f3.png" height="40" width="40"></h3>
 <img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tkyl1l7u7qwoe41pth7ysnip59fdnulxi7bxrd0y&rid=giphy.gif&ct=g"  height="300" width="500">
 
 
