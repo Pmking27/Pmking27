@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [https://prathamesh-portfolio-website.herokuapp.com/](https://prathamesh-portfolio-website.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [http://prathameshportfolio.pythonanywhere.com/](http://prathameshportfolio.pythonanywhere.com/)
 
 - 📝 I regularly write articles on [http://prathamesh-blog.herokuapp.com/](http://prathamesh-blog.herokuapp.com/)
 
