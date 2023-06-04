@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [http://prathameshportfolio.pythonanywhere.com/](http://prathameshportfolio.pythonanywhere.com/)
 
-- 📝 I regularly write articles on [http://prathamesh-blog.herokuapp.com/](http://prathamesh-blog.herokuapp.com/)
-
 - 📫 How to reach me **prathamesh2702m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
