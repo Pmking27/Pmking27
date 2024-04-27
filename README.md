@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 👨‍💻 All of my projects are available at [http://prathameshportfolio.pythonanywhere.com/](http://prathameshportfolio.pythonanywhere.com/)
-
 - 📫 How to reach me **prathamesh2702m@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
